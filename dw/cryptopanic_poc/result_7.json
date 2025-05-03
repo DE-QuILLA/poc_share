@@ -1,0 +1,819 @@
+{
+  "count": 200,
+  "next": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=8",
+  "previous": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=6",
+  "results": [
+    {
+      "kind": "news",
+      "domain": "coingape.com",
+      "source": {
+        "title": "CoinGape",
+        "region": "en",
+        "domain": "coingape.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353239373134/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Price Eyes $100k as Saylor Buys $1.42B BTC \u2014 Fed Decision Looms",
+      "published_at": "2025-05-03T05:54:32Z",
+      "slug": "Bitcoin-Price-Eyes-100k-as-Saylor-Buys-142B-BTC-Fed-Decision-Looms",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21529714,
+      "url": "https://cryptopanic.com/news/21529714/Bitcoin-Price-Eyes-100k-as-Saylor-Buys-142B-BTC-Fed-Decision-Looms?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T05:54:32Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "@DaanCrypto",
+      "source": {
+        "title": "Twitter - daancrypto",
+        "region": "en",
+        "domain": "DaanCrypto",
+        "path": "@daancrypto",
+        "type": "twitter",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353239363637/?mtm_campaign=API-OFA"
+      },
+      "title": "The market has been in relative easy mode the past 3 weeks.\n\nYes, there's intraday volatility but $BTC has pretty much gone up +30% without ever retracing much more than 5% in between. That's a pretty strong move.\n\nIt's pretty easy to notice that imperfect long entries have been",
+      "published_at": "2025-05-03T05:02:00Z",
+      "slug": "The-market-has-been-in-relative-easy-mode-the-past-3-weeks-Yes-theres-intraday-volatility-but-BTC-has-pretty-much-gone-up-30-without-ever-retracing-much-more-than-5-in-between-Thats-a-pretty-strong-move-Its-pretty-easy-to-notice-that-imperfect-long-entries-have-been",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Osmosis allBTC",
+          "slug": "osmosis-allbtc",
+          "url": "https://cryptopanic.com/news/osmosis-allbtc/"
+        }
+      ],
+      "id": 21529667,
+      "url": "https://cryptopanic.com/news/21529667/The-market-has-been-in-relative-easy-mode-the-past-3-weeks-Yes-theres-intraday-volatility-but-BTC-has-pretty-much-gone-up-30-without-ever-retracing-much-more-than-5-in-between-Thats-a-pretty-strong-move-Its-pretty-easy-to-notice-that-imperfect-long-entries?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T05:02:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "ambcrypto.com",
+      "source": {
+        "title": "AMBCrypto",
+        "region": "en",
+        "domain": "ambcrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353239333436/?mtm_campaign=API-OFA"
+      },
+      "title": "Is Nvidia the next MicroStrategy? Why Bitcoin could be its next big bet!",
+      "published_at": "2025-05-03T05:00:42Z",
+      "slug": "Is-Nvidia-the-next-MicroStrategy-Why-Bitcoin-could-be-its-next-big-bet",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21529346,
+      "url": "https://cryptopanic.com/news/21529346/Is-Nvidia-the-next-MicroStrategy-Why-Bitcoin-could-be-its-next-big-bet?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T05:00:42Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Simply Bitcoin",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353239323134/?mtm_campaign=API-OFA"
+      },
+      "title": "Max Keiser: Everything Goes To Zero Against Bitcoin!",
+      "published_at": "2025-05-03T05:00:22Z",
+      "slug": "Max-Keiser-Everything-Goes-To-Zero-Against-Bitcoin",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21529214,
+      "url": "https://cryptopanic.com/news/21529214/Max-Keiser-Everything-Goes-To-Zero-Against-Bitcoin?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T05:00:22Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptodnes.bg",
+      "source": {
+        "title": "cryptodnes",
+        "region": "en",
+        "domain": "cryptodnes.bg",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353330393533/?mtm_campaign=API-OFA"
+      },
+      "title": "French Firm Reinvents Itself as Europe\u2019s First Bitcoin Treasury",
+      "published_at": "2025-05-03T05:00:02Z",
+      "slug": "French-Firm-Reinvents-Itself-as-Europes-First-Bitcoin-Treasury",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21530953,
+      "url": "https://cryptopanic.com/news/21530953/French-Firm-Reinvents-Itself-as-Europes-First-Bitcoin-Treasury?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T05:00:02Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353238373337/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin bros at &#039;the club&#039; may stop US gov\u2019t from buying BTC \u2014 Arthur Hayes",
+      "published_at": "2025-05-03T03:25:20Z",
+      "slug": "Bitcoin-bros-at-039the-club039-may-stop-US-govt-from-buying-BTC-Arthur-Hayes",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21528737,
+      "url": "https://cryptopanic.com/news/21528737/Bitcoin-bros-at-039the-club039-may-stop-US-govt-from-buying-BTC-Arthur-Hayes?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T03:25:20Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353332393930/?mtm_campaign=API-OFA"
+      },
+      "title": "Strategic Shift in Crypto Investment: Bitcoin's Role in Portfolio Performance",
+      "published_at": "2025-05-03T03:23:50Z",
+      "slug": "Strategic-Shift-in-Crypto-Investment-Bitcoins-Role-in-Portfolio-Performance",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21532990,
+      "url": "https://cryptopanic.com/news/21532990/Strategic-Shift-in-Crypto-Investment-Bitcoins-Role-in-Portfolio-Performance?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T03:23:50Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Simply Bitcoin",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353238373335/?mtm_campaign=API-OFA"
+      },
+      "title": "Arizona Senator Wendy Rogers on Bitcoin!",
+      "published_at": "2025-05-03T03:01:04Z",
+      "slug": "Arizona-Senator-Wendy-Rogers-on-Bitcoin",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21528735,
+      "url": "https://cryptopanic.com/news/21528735/Arizona-Senator-Wendy-Rogers-on-Bitcoin?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T03:01:04Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353238343835/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Price Confirmed Local Bottom As All Indicators Flash Bullish, Where\u2019s Price Headed?",
+      "published_at": "2025-05-03T03:00:49Z",
+      "slug": "Bitcoin-Price-Confirmed-Local-Bottom-As-All-Indicators-Flash-Bullish-Wheres-Price-Headed",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "USDT",
+          "title": "Tether",
+          "slug": "tether",
+          "url": "https://cryptopanic.com/news/tether/"
+        },
+        {
+          "code": "CLOUD",
+          "title": "Cloud",
+          "slug": "sanctum-2",
+          "url": "https://cryptopanic.com/news/sanctum-2/"
+        }
+      ],
+      "id": 21528485,
+      "url": "https://cryptopanic.com/news/21528485/Bitcoin-Price-Confirmed-Local-Bottom-As-All-Indicators-Flash-Bullish-Wheres-Price-Headed?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T03:00:49Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "99bitcoins.com",
+      "source": {
+        "title": "99Bitcoins",
+        "region": "en",
+        "domain": "99bitcoins.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353238333134/?mtm_campaign=API-OFA"
+      },
+      "title": "Privacy Coins Face EU Ban Under New AML Rules Starting 2027",
+      "published_at": "2025-05-03T02:47:15Z",
+      "slug": "Privacy-Coins-Face-EU-Ban-Under-New-AML-Rules-Starting-2027",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "BTCUSD",
+          "title": "Bitcoin USD (BTCFi)",
+          "slug": "bitcoin-usd-btcfi",
+          "url": "https://cryptopanic.com/news/bitcoin-usd-btcfi/"
+        }
+      ],
+      "id": 21528314,
+      "url": "https://cryptopanic.com/news/21528314/Privacy-Coins-Face-EU-Ban-Under-New-AML-Rules-Starting-2027?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T02:47:15Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353332393838/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Retirement Guide Predicts Future Needs for Young Investors",
+      "published_at": "2025-05-03T02:23:34Z",
+      "slug": "Bitcoin-Retirement-Guide-Predicts-Future-Needs-for-Young-Investors",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21532988,
+      "url": "https://cryptopanic.com/news/21532988/Bitcoin-Retirement-Guide-Predicts-Future-Needs-for-Young-Investors?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T02:23:34Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353332393833/?mtm_campaign=API-OFA"
+      },
+      "title": "Cipher Mining Reports April Bitcoin Production and Sales Figures",
+      "published_at": "2025-05-03T01:53:34Z",
+      "slug": "Cipher-Mining-Reports-April-Bitcoin-Production-and-Sales-Figures",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21532983,
+      "url": "https://cryptopanic.com/news/21532983/Cipher-Mining-Reports-April-Bitcoin-Production-and-Sales-Figures?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T01:53:34Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "bitcoin.com",
+      "source": {
+        "title": "Bitcoin.com",
+        "region": "en",
+        "domain": "bitcoin.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353237383330/?mtm_campaign=API-OFA"
+      },
+      "title": "Excellence-Only Policy Puts El Salvador\u2019s Bitcoin Program in Global Spotlight",
+      "published_at": "2025-05-03T01:30:47Z",
+      "slug": "Excellence-Only-Policy-Puts-El-Salvadors-Bitcoin-Program-in-Global-Spotlight",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21527830,
+      "url": "https://cryptopanic.com/news/21527830/Excellence-Only-Policy-Puts-El-Salvadors-Bitcoin-Program-in-Global-Spotlight?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T01:30:47Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353237383334/?mtm_campaign=API-OFA"
+      },
+      "title": "Ethereum Forms Long-Legged Doji On Monthly Chart \u2013 Reversal Or Just A Pause?",
+      "published_at": "2025-05-03T01:30:40Z",
+      "slug": "Ethereum-Forms-Long-Legged-Doji-On-Monthly-Chart-Reversal-Or-Just-A-Pause",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "USDT",
+          "title": "Tether",
+          "slug": "tether",
+          "url": "https://cryptopanic.com/news/tether/"
+        },
+        {
+          "code": "DOGE",
+          "title": "Dogecoin",
+          "slug": "dogecoin",
+          "url": "https://cryptopanic.com/news/dogecoin/"
+        }
+      ],
+      "id": 21527834,
+      "url": "https://cryptopanic.com/news/21527834/Ethereum-Forms-Long-Legged-Doji-On-Monthly-Chart-Reversal-Or-Just-A-Pause?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T01:30:40Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Simply Bitcoin",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353237383131/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin ETFs: $10 Trillion Wave Coming!",
+      "published_at": "2025-05-03T01:00:03Z",
+      "slug": "Bitcoin-ETFs-10-Trillion-Wave-Coming",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21527811,
+      "url": "https://cryptopanic.com/news/21527811/Bitcoin-ETFs-10-Trillion-Wave-Coming?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T01:00:03Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindoo.com",
+      "source": {
+        "title": "Coindoo.com",
+        "region": "en",
+        "domain": "coindoo.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353237333135/?mtm_campaign=API-OFA"
+      },
+      "title": "New Study Finds Dogecoin Boosts Returns With Minimal Risk",
+      "published_at": "2025-05-03T00:11:01Z",
+      "slug": "New-Study-Finds-Dogecoin-Boosts-Returns-With-Minimal-Risk",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "DOGE",
+          "title": "Dogecoin",
+          "slug": "dogecoin",
+          "url": "https://cryptopanic.com/news/dogecoin/"
+        }
+      ],
+      "id": 21527315,
+      "url": "https://cryptopanic.com/news/21527315/New-Study-Finds-Dogecoin-Boosts-Returns-With-Minimal-Risk?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T00:11:01Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindoo.com",
+      "source": {
+        "title": "Coindoo.com",
+        "region": "en",
+        "domain": "coindoo.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353237303133/?mtm_campaign=API-OFA"
+      },
+      "title": "Institutions Now Absorb More Bitcoin Than the Network Can Produce",
+      "published_at": "2025-05-03T00:01:13Z",
+      "slug": "Institutions-Now-Absorb-More-Bitcoin-Than-the-Network-Can-Produce",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21527013,
+      "url": "https://cryptopanic.com/news/21527013/Institutions-Now-Absorb-More-Bitcoin-Than-the-Network-Can-Produce?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T00:01:13Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "u.today",
+      "source": {
+        "title": "U.Today",
+        "region": "en",
+        "domain": "u.today",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353237313736/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin (BTC) Golden Cross: Secured, XRP Will Explode After This Level Is Reached, Did Solana (SOL) Just Paint Double-Top?",
+      "published_at": "2025-05-03T00:01:00Z",
+      "slug": "Bitcoin-BTC-Golden-Cross-Secured-XRP-Will-Explode-After-This-Level-Is-Reached-Did-Solana-SOL-Just-Paint-Double-Top",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "XRP",
+          "title": "XRP",
+          "slug": "ripple",
+          "url": "https://cryptopanic.com/news/ripple/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        }
+      ],
+      "id": 21527176,
+      "url": "https://cryptopanic.com/news/21527176/Bitcoin-BTC-Golden-Cross-Secured-XRP-Will-Explode-After-This-Level-Is-Reached-Did-Solana-SOL-Just-Paint-Double-Top?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T00:01:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236383638/?mtm_campaign=API-OFA"
+      },
+      "title": "Strategy\u2019s $84 Billion Bitcoin Appetite: Michael Saylor Goes All In (Again)",
+      "published_at": "2025-05-03T00:00:23Z",
+      "slug": "Strategys-84-Billion-Bitcoin-Appetite-Michael-Saylor-Goes-All-In-Again",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526868,
+      "url": "https://cryptopanic.com/news/21526868/Strategys-84-Billion-Bitcoin-Appetite-Michael-Saylor-Goes-All-In-Again?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T00:00:23Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptoslate.com",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 0
+      },
+      "source": {
+        "title": "CryptoSlate",
+        "region": "en",
+        "domain": "cryptoslate.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353237303130/?mtm_campaign=API-OFA"
+      },
+      "title": "ZachXBT reveals $7M of the OG holder\u2019s stolen Bitcoin was frozen with Binance\u2019s help",
+      "published_at": "2025-05-03T00:00:16Z",
+      "slug": "ZachXBT-reveals-7M-of-the-OG-holders-stolen-Bitcoin-was-frozen-with-Binances-help",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "OG",
+          "title": "OG Fan Token",
+          "slug": "og-fan-token",
+          "url": "https://cryptopanic.com/news/og-fan-token/"
+        }
+      ],
+      "id": 21527010,
+      "url": "https://cryptopanic.com/news/21527010/ZachXBT-reveals-7M-of-the-OG-holders-stolen-Bitcoin-was-frozen-with-Binances-help?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T00:00:16Z"
+    }
+  ]
+}

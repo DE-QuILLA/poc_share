@@ -1,0 +1,813 @@
+{
+  "count": 200,
+  "next": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=6",
+  "previous": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=4",
+  "results": [
+    {
+      "kind": "news",
+      "domain": "coinpedia.org",
+      "votes": {
+        "negative": 0,
+        "positive": 1,
+        "important": 0,
+        "liked": 1,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "coinpedia",
+        "region": "en",
+        "domain": "coinpedia.org",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353333303836/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin To Hit $135k in 100 Days? Here\u2019s Why Top Analyst Thinks So",
+      "published_at": "2025-05-03T09:39:19Z",
+      "slug": "Bitcoin-To-Hit-135k-in-100-Days-Heres-Why-Top-Analyst-Thinks-So",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21533086,
+      "url": "https://cryptopanic.com/news/21533086/Bitcoin-To-Hit-135k-in-100-Days-Heres-Why-Top-Analyst-Thinks-So?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:39:19Z"
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353336343736/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin News Today: Bitcoin Could Hit $135K Within 100 Days, Analysts Say \u2014 Key Indicators Signal New All-Time High",
+      "published_at": "2025-05-03T09:37:33Z",
+      "slug": "Bitcoin-News-Today-Bitcoin-Could-Hit-135K-Within-100-Days-Analysts-Say-Key-Indicators-Signal-New-All-Time-High",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21536476,
+      "url": "https://cryptopanic.com/news/21536476/Bitcoin-News-Today-Bitcoin-Could-Hit-135K-Within-100-Days-Analysts-Say-Key-Indicators-Signal-New-All-Time-High?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:37:33Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "droomdroom.com",
+      "source": {
+        "title": "droomdroom",
+        "region": "en",
+        "domain": "droomdroom.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353333303834/?mtm_campaign=API-OFA"
+      },
+      "title": "Connection Between US Fed Interest Rates, Inflation, and Bitcoin Rallies",
+      "published_at": "2025-05-03T09:35:03Z",
+      "slug": "Connection-Between-US-Fed-Interest-Rates-Inflation-and-Bitcoin-Rallies",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21533084,
+      "url": "https://cryptopanic.com/news/21533084/Connection-Between-US-Fed-Interest-Rates-Inflation-and-Bitcoin-Rallies?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:35:03Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353336343735/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin News: Bitcoin Price Nears $97K Amid ETF Inflows and Trade War Fears \u2014 Is $100K Next or Just a Mirage?",
+      "published_at": "2025-05-03T09:33:14Z",
+      "slug": "Bitcoin-News-Bitcoin-Price-Nears-97K-Amid-ETF-Inflows-and-Trade-War-Fears-Is-100K-Next-or-Just-a-Mirage",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21536475,
+      "url": "https://cryptopanic.com/news/21536475/Bitcoin-News-Bitcoin-Price-Nears-97K-Amid-ETF-Inflows-and-Trade-War-Fears-Is-100K-Next-or-Just-a-Mirage?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:33:14Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353336343734/?mtm_campaign=API-OFA"
+      },
+      "title": "Binance Market Update: Crypto Market Trends | May 3, 2025",
+      "published_at": "2025-05-03T09:30:37Z",
+      "slug": "Binance-Market-Update-Crypto-Market-Trends-May-3-2025",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21536474,
+      "url": "https://cryptopanic.com/news/21536474/Binance-Market-Update-Crypto-Market-Trends-May-3-2025?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:30:37Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353336343731/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitdeer Reports Increase in Bitcoin Holdings and Mining Output",
+      "published_at": "2025-05-03T09:23:33Z",
+      "slug": "Bitdeer-Reports-Increase-in-Bitcoin-Holdings-and-Mining-Output",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21536471,
+      "url": "https://cryptopanic.com/news/21536471/Bitdeer-Reports-Increase-in-Bitcoin-Holdings-and-Mining-Output?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:23:33Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 1,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353333303331/?mtm_campaign=API-OFA"
+      },
+      "title": "Arizona governor vetoes bill to make Bitcoin part of state reserves",
+      "published_at": "2025-05-03T09:23:20Z",
+      "slug": "Arizona-governor-vetoes-bill-to-make-Bitcoin-part-of-state-reserves",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21533031,
+      "url": "https://cryptopanic.com/news/21533031/Arizona-governor-vetoes-bill-to-make-Bitcoin-part-of-state-reserves?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:23:20Z"
+    },
+    {
+      "kind": "news",
+      "domain": "99bitcoins.com",
+      "source": {
+        "title": "99Bitcoins",
+        "region": "en",
+        "domain": "99bitcoins.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353333303737/?mtm_campaign=API-OFA"
+      },
+      "title": "Africa Crypto Week in Review:\u00a0 Onafriq Taps USDC, Nigeria After 8 Suspects Following CBEX Collapse, Phoenix Group Expands Bitcoin Mining Operations In Ethiopia",
+      "published_at": "2025-05-03T09:20:41Z",
+      "slug": "Africa-Crypto-Week-in-Review-Onafriq-Taps-USDC-Nigeria-After-8-Suspects-Following-CBEX-Collapse-Phoenix-Group-Expands-Bitcoin-Mining-Operations-In-Ethiopia",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "USDC",
+          "title": "USDC",
+          "slug": "usd-coin",
+          "url": "https://cryptopanic.com/news/usd-coin/"
+        },
+        {
+          "code": "BTCUSD",
+          "title": "Bitcoin USD (BTCFi)",
+          "slug": "bitcoin-usd-btcfi",
+          "url": "https://cryptopanic.com/news/bitcoin-usd-btcfi/"
+        }
+      ],
+      "id": 21533077,
+      "url": "https://cryptopanic.com/news/21533077/Africa-Crypto-Week-in-Review-Onafriq-Taps-USDC-Nigeria-After-8-Suspects-Following-CBEX-Collapse-Phoenix-Group-Expands-Bitcoin-Mining-Operations-In-Ethiopia?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:20:41Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "dailyhodl.com",
+      "source": {
+        "title": "The Daily Hodl",
+        "region": "en",
+        "domain": "dailyhodl.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353333303137/?mtm_campaign=API-OFA"
+      },
+      "title": "\u2018Good Things Are Ahead\u2019: InvestAnswers Says Bitcoin Bull Run Not Over, Unveils BTC Targets Over Coming Weeks",
+      "published_at": "2025-05-03T09:15:55Z",
+      "slug": "Good-Things-Are-Ahead-InvestAnswers-Says-Bitcoin-Bull-Run-Not-Over-Unveils-BTC-Targets-Over-Coming-Weeks",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21533017,
+      "url": "https://cryptopanic.com/news/21533017/Good-Things-Are-Ahead-InvestAnswers-Says-Bitcoin-Bull-Run-Not-Over-Unveils-BTC-Targets-Over-Coming-Weeks?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:15:55Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "u.today",
+      "votes": {
+        "negative": 1,
+        "positive": 0,
+        "important": 0,
+        "liked": 2,
+        "disliked": 1,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "U.Today",
+        "region": "en",
+        "domain": "u.today",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353333303138/?mtm_campaign=API-OFA"
+      },
+      "title": "Vitalik Buterin Names One of Best Things About Bitcoin",
+      "published_at": "2025-05-03T09:15:00Z",
+      "slug": "Vitalik-Buterin-Names-One-of-Best-Things-About-Bitcoin",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 21533018,
+      "url": "https://cryptopanic.com/news/21533018/Vitalik-Buterin-Names-One-of-Best-Things-About-Bitcoin?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:15:00Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cryptodaily.co.uk",
+      "source": {
+        "title": "CryptoDaily",
+        "region": "en",
+        "domain": "cryptodaily.co.uk",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353332383034/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Dips on Path to $100K - Which Is The Best Crypto to Buy Now?",
+      "published_at": "2025-05-03T09:10:23Z",
+      "slug": "Bitcoin-Dips-on-Path-to-100K-Which-Is-The-Best-Crypto-to-Buy-Now",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21532804,
+      "url": "https://cryptopanic.com/news/21532804/Bitcoin-Dips-on-Path-to-100K-Which-Is-The-Best-Crypto-to-Buy-Now?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:10:23Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "votes": {
+        "negative": 0,
+        "positive": 1,
+        "important": 0,
+        "liked": 1,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353333303037/?mtm_campaign=API-OFA"
+      },
+      "title": "Significant Inflow into U.S. Spot Bitcoin ETF Reported",
+      "published_at": "2025-05-03T09:07:48Z",
+      "slug": "Significant-Inflow-into-US-Spot-Bitcoin-ETF-Reported",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21533007,
+      "url": "https://cryptopanic.com/news/21533007/Significant-Inflow-into-US-Spot-Bitcoin-ETF-Reported?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:07:48Z"
+    },
+    {
+      "kind": "news",
+      "domain": "coingape.com",
+      "source": {
+        "title": "CoinGape",
+        "region": "en",
+        "domain": "coingape.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353332343139/?mtm_campaign=API-OFA"
+      },
+      "title": "Move Over Gold: Bitcoin ETF Just Took the Lead as Proffered Hedge",
+      "published_at": "2025-05-03T09:04:04Z",
+      "slug": "Move-Over-Gold-Bitcoin-ETF-Just-Took-the-Lead-as-Proffered-Hedge",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21532419,
+      "url": "https://cryptopanic.com/news/21532419/Move-Over-Gold-Bitcoin-ETF-Just-Took-the-Lead-as-Proffered-Hedge?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:04:04Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353332323238/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Could See A Weekend Rally To $100,000 \u2013 Is BTC Ready For New Highs?",
+      "published_at": "2025-05-03T09:00:48Z",
+      "slug": "Bitcoin-Could-See-A-Weekend-Rally-To-100000-Is-BTC-Ready-For-New-Highs",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "USDT",
+          "title": "Tether",
+          "slug": "tether",
+          "url": "https://cryptopanic.com/news/tether/"
+        },
+        {
+          "code": "ATH",
+          "title": "Aethir",
+          "slug": "aethir",
+          "url": "https://cryptopanic.com/news/aethir/"
+        }
+      ],
+      "id": 21532228,
+      "url": "https://cryptopanic.com/news/21532228/Bitcoin-Could-See-A-Weekend-Rally-To-100000-Is-BTC-Ready-For-New-Highs?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:00:48Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptodnes.bg",
+      "source": {
+        "title": "cryptodnes",
+        "region": "en",
+        "domain": "cryptodnes.bg",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353334333734/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Nears $100K as Fewer Holders Sit in the Red",
+      "published_at": "2025-05-03T09:00:29Z",
+      "slug": "Bitcoin-Nears-100K-as-Fewer-Holders-Sit-in-the-Red",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21534374,
+      "url": "https://cryptopanic.com/news/21534374/Bitcoin-Nears-100K-as-Fewer-Holders-Sit-in-the-Red?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:00:29Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindoo.com",
+      "source": {
+        "title": "Coindoo.com",
+        "region": "en",
+        "domain": "coindoo.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353332323039/?mtm_campaign=API-OFA"
+      },
+      "title": "Binance Bitcoin Funding Turns Deeply Negative for First Time Since Sep 2024",
+      "published_at": "2025-05-03T09:00:28Z",
+      "slug": "Binance-Bitcoin-Funding-Turns-Deeply-Negative-for-First-Time-Since-Sep-2024",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21532209,
+      "url": "https://cryptopanic.com/news/21532209/Binance-Bitcoin-Funding-Turns-Deeply-Negative-for-First-Time-Since-Sep-2024?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:00:28Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "Simply Bitcoin",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353332363636/?mtm_campaign=API-OFA"
+      },
+      "title": "Arizona's Bitcoin Revolution: First State to Reserve Bitcoin!",
+      "published_at": "2025-05-03T09:00:24Z",
+      "slug": "Arizonas-Bitcoin-Revolution-First-State-to-Reserve-Bitcoin",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21532666,
+      "url": "https://cryptopanic.com/news/21532666/Arizonas-Bitcoin-Revolution-First-State-to-Reserve-Bitcoin?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T09:00:24Z"
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353333303033/?mtm_campaign=API-OFA"
+      },
+      "title": "Arizona Governor Vetoes Digital Asset Reserve Bill",
+      "published_at": "2025-05-03T08:43:50Z",
+      "slug": "Arizona-Governor-Vetoes-Digital-Asset-Reserve-Bill",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21533003,
+      "url": "https://cryptopanic.com/news/21533003/Arizona-Governor-Vetoes-Digital-Asset-Reserve-Bill?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T08:43:50Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "square.binance.com",
+      "votes": {
+        "negative": 0,
+        "positive": 1,
+        "important": 1,
+        "liked": 1,
+        "disliked": 0,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "Binance Square",
+        "region": "en",
+        "domain": "square.binance.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353333303031/?mtm_campaign=API-OFA"
+      },
+      "title": "Vitalik Buterin Proposes Simplification of Ethereum Protocol for Enhanced Efficiency",
+      "published_at": "2025-05-03T08:33:45Z",
+      "slug": "Vitalik-Buterin-Proposes-Simplification-of-Ethereum-Protocol-for-Enhanced-Efficiency",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "L1",
+          "title": "Lamina1",
+          "slug": "lamina1",
+          "url": "https://cryptopanic.com/news/lamina1/"
+        }
+      ],
+      "id": 21533001,
+      "url": "https://cryptopanic.com/news/21533001/Vitalik-Buterin-Proposes-Simplification-of-Ethereum-Protocol-for-Enhanced-Efficiency?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T08:33:45Z"
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "votes": {
+        "negative": 1,
+        "positive": 3,
+        "important": 2,
+        "liked": 3,
+        "disliked": 1,
+        "lol": 2,
+        "toxic": 0,
+        "saved": 2,
+        "comments": 0
+      },
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353332313737/?mtm_campaign=API-OFA"
+      },
+      "title": "Vitalik wants to make Ethereum \u2018as simple as Bitcoin\u2019 in 5 years",
+      "published_at": "2025-05-03T08:30:15Z",
+      "slug": "Vitalik-wants-to-make-Ethereum-as-simple-as-Bitcoin-in-5-years",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "D",
+          "title": "Dar Open Network",
+          "slug": "dar-open-network",
+          "url": "https://cryptopanic.com/news/dar-open-network/"
+        },
+        {
+          "code": "L1",
+          "title": "Lamina1",
+          "slug": "lamina1",
+          "url": "https://cryptopanic.com/news/lamina1/"
+        }
+      ],
+      "id": 21532177,
+      "url": "https://cryptopanic.com/news/21532177/Vitalik-wants-to-make-Ethereum-as-simple-as-Bitcoin-in-5-years?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T08:30:15Z"
+    }
+  ]
+}

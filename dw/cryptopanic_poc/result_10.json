@@ -1,0 +1,867 @@
+{
+  "count": 200,
+  "next": null,
+  "previous": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=9",
+  "results": [
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Simply Bitcoin",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233343133/?mtm_campaign=API-OFA"
+      },
+      "title": "Michael Saylor Bitcoin Arbitrage: Billion Dollar Profit Revealed!",
+      "published_at": "2025-05-02T19:45:36Z",
+      "slug": "Michael-Saylor-Bitcoin-Arbitrage-Billion-Dollar-Profit-Revealed",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21523413,
+      "url": "https://cryptopanic.com/news/21523413/Michael-Saylor-Bitcoin-Arbitrage-Billion-Dollar-Profit-Revealed?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:45:36Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233333936/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin data, macroeconomic charts point to new BTC all-time high \u2018in 100 days\u2019 \u2014 Analysts",
+      "published_at": "2025-05-02T19:35:09Z",
+      "slug": "Bitcoin-data-macroeconomic-charts-point-to-new-BTC-all-time-high-in-100-days-Analysts",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21523396,
+      "url": "https://cryptopanic.com/news/21523396/Bitcoin-data-macroeconomic-charts-point-to-new-BTC-all-time-high-in-100-days-Analysts?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:35:09Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "u.today",
+      "source": {
+        "title": "U.Today",
+        "region": "en",
+        "domain": "u.today",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233343336/?mtm_campaign=API-OFA"
+      },
+      "title": "Fidelity: Gold to Pass Baton to Bitcoin",
+      "published_at": "2025-05-02T19:35:01Z",
+      "slug": "Fidelity-Gold-to-Pass-Baton-to-Bitcoin",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21523436,
+      "url": "https://cryptopanic.com/news/21523436/Fidelity-Gold-to-Pass-Baton-to-Bitcoin?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:35:01Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233333537/?mtm_campaign=API-OFA"
+      },
+      "title": "Veteran Analyst Predicts Bitcoin Surge To $150K \u2014 Here\u2019s The Timeline",
+      "published_at": "2025-05-02T19:30:15Z",
+      "slug": "Veteran-Analyst-Predicts-Bitcoin-Surge-To-150K-Heres-The-Timeline",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "ADA",
+          "title": "Cardano",
+          "slug": "cardano",
+          "url": "https://cryptopanic.com/news/cardano/"
+        }
+      ],
+      "id": 21523357,
+      "url": "https://cryptopanic.com/news/21523357/Veteran-Analyst-Predicts-Bitcoin-Surge-To-150K-Heres-The-Timeline?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:30:15Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "bitcoin.com",
+      "source": {
+        "title": "Bitcoin.com",
+        "region": "en",
+        "domain": "bitcoin.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233333739/?mtm_campaign=API-OFA"
+      },
+      "title": "Record Stablecoin Liquidity Fuels Bitcoin\u2019s Exit From Bearish Territory",
+      "published_at": "2025-05-02T19:30:05Z",
+      "slug": "Record-Stablecoin-Liquidity-Fuels-Bitcoins-Exit-From-Bearish-Territory",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21523379,
+      "url": "https://cryptopanic.com/news/21523379/Record-Stablecoin-Liquidity-Fuels-Bitcoins-Exit-From-Bearish-Territory?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:30:05Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptopolitan.com",
+      "source": {
+        "title": "Feed - Cryptopolitan.Com",
+        "region": "en",
+        "domain": "cryptopolitan.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233333832/?mtm_campaign=API-OFA"
+      },
+      "title": "ZachXBT intercepts $7M from recent $330M BTC phishing heist",
+      "published_at": "2025-05-02T19:26:44Z",
+      "slug": "ZachXBT-intercepts-7M-from-recent-330M-BTC-phishing-heist",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21523382,
+      "url": "https://cryptopanic.com/news/21523382/ZachXBT-intercepts-7M-from-recent-330M-BTC-phishing-heist?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:26:44Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptopotato.com",
+      "source": {
+        "title": "Feed - Cryptopotato.Com",
+        "region": "en",
+        "domain": "cryptopotato.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233323535/?mtm_campaign=API-OFA"
+      },
+      "title": "Here\u2019s What Could Propel XRP to New All-Time Highs, According to Santiment",
+      "published_at": "2025-05-02T19:15:44Z",
+      "slug": "Heres-What-Could-Propel-XRP-to-New-All-Time-Highs-According-to-Santiment",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "XRP",
+          "title": "XRP",
+          "slug": "ripple",
+          "url": "https://cryptopanic.com/news/ripple/"
+        },
+        {
+          "code": "ATH",
+          "title": "Aethir",
+          "slug": "aethir",
+          "url": "https://cryptopanic.com/news/aethir/"
+        }
+      ],
+      "id": 21523255,
+      "url": "https://cryptopanic.com/news/21523255/Heres-What-Could-Propel-XRP-to-New-All-Time-Highs-According-to-Santiment?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:15:44Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "beincrypto.com",
+      "source": {
+        "title": "BeInCrypto",
+        "region": "en",
+        "domain": "beincrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233393330/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin\u2019s $100,000 Push \u2013 Derivatives Traders Explain What\u2019s Next",
+      "published_at": "2025-05-02T19:06:56Z",
+      "slug": "Bitcoins-100000-Push-Derivatives-Traders-Explain-Whats-Next",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21523930,
+      "url": "https://cryptopanic.com/news/21523930/Bitcoins-100000-Push-Derivatives-Traders-Explain-Whats-Next?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:06:56Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "feeds2.benzinga.com",
+      "source": {
+        "title": "Benzinga",
+        "region": "en",
+        "domain": "feeds2.benzinga.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233333333/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin, Ethereum, XRP, Dogecoin Hold Steady As Bulls Eye Further Gains",
+      "published_at": "2025-05-02T19:05:13Z",
+      "slug": "Bitcoin-Ethereum-XRP-Dogecoin-Hold-Steady-As-Bulls-Eye-Further-Gains",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        },
+        {
+          "code": "XRP",
+          "title": "XRP",
+          "slug": "ripple",
+          "url": "https://cryptopanic.com/news/ripple/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        },
+        {
+          "code": "DOGE",
+          "title": "Dogecoin",
+          "slug": "dogecoin",
+          "url": "https://cryptopanic.com/news/dogecoin/"
+        },
+        {
+          "code": "SHIB",
+          "title": "Shiba Inu",
+          "slug": "shiba-inu",
+          "url": "https://cryptopanic.com/news/shiba-inu/"
+        },
+        {
+          "code": "IMX",
+          "title": "Immutable",
+          "slug": "immutable-x",
+          "url": "https://cryptopanic.com/news/immutable-x/"
+        },
+        {
+          "code": "EOS",
+          "title": "EOS",
+          "slug": "eos",
+          "url": "https://cryptopanic.com/news/eos/"
+        }
+      ],
+      "id": 21523333,
+      "url": "https://cryptopanic.com/news/21523333/Bitcoin-Ethereum-XRP-Dogecoin-Hold-Steady-As-Bulls-Eye-Further-Gains?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:05:13Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "thedefiant.io",
+      "source": {
+        "title": "DeFi News",
+        "region": "en",
+        "domain": "thedefiant.io",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232373433/?mtm_campaign=API-OFA"
+      },
+      "title": "Fold ($FLD) Becomes First Bitcoin Rewards Company to Ring Nasdaq Opening Bell on May 2, 2025",
+      "published_at": "2025-05-02T19:05:11Z",
+      "slug": "Fold-FLD-Becomes-First-Bitcoin-Rewards-Company-to-Ring-Nasdaq-Opening-Bell-on-May-2-2025",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21522743,
+      "url": "https://cryptopanic.com/news/21522743/Fold-FLD-Becomes-First-Bitcoin-Rewards-Company-to-Ring-Nasdaq-Opening-Bell-on-May-2-2025?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:05:11Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "decrypt.co",
+      "source": {
+        "title": "Decrypt",
+        "region": "en",
+        "domain": "decrypt.co",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232353239/?mtm_campaign=API-OFA"
+      },
+      "title": "Riot Platform Post Mixed Q1 Results as Effects of Bitcoin Blockchain's \u201cHalving\u201d Linger",
+      "published_at": "2025-05-02T19:02:54Z",
+      "slug": "Riot-Platform-Post-Mixed-Q1-Results-as-Effects-of-Bitcoin-Blockchains-Halving-Linger",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21522529,
+      "url": "https://cryptopanic.com/news/21522529/Riot-Platform-Post-Mixed-Q1-Results-as-Effects-of-Bitcoin-Blockchains-Halving-Linger?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:02:54Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "@DaanCrypto",
+      "source": {
+        "title": "Twitter - daancrypto",
+        "region": "en",
+        "domain": "DaanCrypto",
+        "path": "@daancrypto",
+        "type": "twitter",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232393831/?mtm_campaign=API-OFA"
+      },
+      "title": "$TOTAL Altcoin Market Cap sitting at resistance and at a key level for continuation.\n\nWe can already see alts being relatively choppy here as BTC made the move higher the past few days.\n\nFor this to break out and pull alts up we need some majors like $ETH or $SOL to lead the way",
+      "published_at": "2025-05-02T19:02:00Z",
+      "slug": "TOTAL-Altcoin-Market-Cap-sitting-at-resistance-and-at-a-key-level-for-continuation-We-can-already-see-alts-being-relatively-choppy-here-as-BTC-made-the-move-higher-the-past-few-days-For-this-to-break-out-and-pull-alts-up-we-need-some-majors-like-ETH-or-SOL-to-lead-the-way",
+      "currencies": [
+        {
+          "code": "ETH",
+          "title": "Bridged Ether (StarkGate)",
+          "slug": "bridged-wrapped-ether-starkgate",
+          "url": "https://cryptopanic.com/news/bridged-wrapped-ether-starkgate/"
+        },
+        {
+          "code": "SOL",
+          "title": "Binance-Peg SOL",
+          "slug": "binance-peg-sol",
+          "url": "https://cryptopanic.com/news/binance-peg-sol/"
+        },
+        {
+          "code": "BTC",
+          "title": "Osmosis allBTC",
+          "slug": "osmosis-allbtc",
+          "url": "https://cryptopanic.com/news/osmosis-allbtc/"
+        }
+      ],
+      "id": 21522981,
+      "url": "https://cryptopanic.com/news/21522981/TOTAL-Altcoin-Market-Cap-sitting-at-resistance-and-at-a-key-level-for-continuation-We-can-already-see-alts-being-relatively-choppy-here-as-BTC-made-the-move-higher-the-past-few-days-For-this-to-break-out-and-pull-alts-up-we-need-some-majors-like-ETH-or-SOL?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:02:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coinpedia.org",
+      "source": {
+        "title": "coinpedia",
+        "region": "en",
+        "domain": "coinpedia.org",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232333238/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Cash Price Analysis: Key Targets to Consider Ahead of May Network Upgrade",
+      "published_at": "2025-05-02T18:58:02Z",
+      "slug": "Bitcoin-Cash-Price-Analysis-Key-Targets-to-Consider-Ahead-of-May-Network-Upgrade",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "BCH",
+          "title": "Bitcoin Cash",
+          "slug": "bitcoin-cash",
+          "url": "https://cryptopanic.com/news/bitcoin-cash/"
+        }
+      ],
+      "id": 21522328,
+      "url": "https://cryptopanic.com/news/21522328/Bitcoin-Cash-Price-Analysis-Key-Targets-to-Consider-Ahead-of-May-Network-Upgrade?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T18:58:02Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coingape.com",
+      "source": {
+        "title": "CoinGape",
+        "region": "en",
+        "domain": "coingape.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232333036/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Price Predicted to Reach $250,000 as Japanese Investor Metaplanet Opens Miami Office",
+      "published_at": "2025-05-02T18:57:58Z",
+      "slug": "Bitcoin-Price-Predicted-to-Reach-250000-as-Japanese-Investor-Metaplanet-Opens-Miami-Office",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21522306,
+      "url": "https://cryptopanic.com/news/21522306/Bitcoin-Price-Predicted-to-Reach-250000-as-Japanese-Investor-Metaplanet-Opens-Miami-Office?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T18:57:58Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptopolitan.com",
+      "source": {
+        "title": "Feed - Cryptopolitan.Com",
+        "region": "en",
+        "domain": "cryptopolitan.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232323835/?mtm_campaign=API-OFA"
+      },
+      "title": "Long-term BTC holders are back in accumulation mode",
+      "published_at": "2025-05-02T18:41:14Z",
+      "slug": "Long-term-BTC-holders-are-back-in-accumulation-mode",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21522285,
+      "url": "https://cryptopanic.com/news/21522285/Long-term-BTC-holders-are-back-in-accumulation-mode?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T18:41:14Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "dailyhodl.com",
+      "source": {
+        "title": "The Daily Hodl",
+        "region": "en",
+        "domain": "dailyhodl.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232323532/?mtm_campaign=API-OFA"
+      },
+      "title": "Regulators in Great Britain Move To Keep Crypto Customers From Borrowing To Buy Bitcoin (BTC): Report",
+      "published_at": "2025-05-02T18:41:07Z",
+      "slug": "Regulators-in-Great-Britain-Move-To-Keep-Crypto-Customers-From-Borrowing-To-Buy-Bitcoin-BTC-Report",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21522252,
+      "url": "https://cryptopanic.com/news/21522252/Regulators-in-Great-Britain-Move-To-Keep-Crypto-Customers-From-Borrowing-To-Buy-Bitcoin-BTC-Report?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T18:41:07Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "theblock.co",
+      "source": {
+        "title": "The Block",
+        "region": "en",
+        "domain": "theblock.co",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232323530/?mtm_campaign=API-OFA"
+      },
+      "title": "The Daily: Strategy\u2019s \u2018turbocharged\u2019 $84 billion bitcoin plan, Movement Labs suspends co-founder Rushi Manche and more",
+      "published_at": "2025-05-02T18:37:56Z",
+      "slug": "The-Daily-Strategys-turbocharged-84-billion-bitcoin-plan-Movement-Labs-suspends-co-founder-Rushi-Manche-and-more",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "APT",
+          "title": "Aptos",
+          "slug": "aptos",
+          "url": "https://cryptopanic.com/news/aptos/"
+        },
+        {
+          "code": "NFT",
+          "title": "APENFT",
+          "slug": "apenft",
+          "url": "https://cryptopanic.com/news/apenft/"
+        },
+        {
+          "code": "GAL",
+          "title": "Galxe",
+          "slug": "project-galaxy",
+          "url": "https://cryptopanic.com/news/project-galaxy/"
+        },
+        {
+          "code": "PEOPLE",
+          "title": "ConstitutionDAO",
+          "slug": "constitutiondao",
+          "url": "https://cryptopanic.com/news/constitutiondao/"
+        },
+        {
+          "code": "S",
+          "title": "Agent S",
+          "slug": "agent-s",
+          "url": "https://cryptopanic.com/news/agent-s/"
+        }
+      ],
+      "id": 21522250,
+      "url": "https://cryptopanic.com/news/21522250/The-Daily-Strategys-turbocharged-84-billion-bitcoin-plan-Movement-Labs-suspends-co-founder-Rushi-Manche-and-more?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T18:37:56Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "bitcoin.com",
+      "source": {
+        "title": "Bitcoin.com",
+        "region": "en",
+        "domain": "bitcoin.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232323031/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Eyes $98K as Strong Jobs Report Buoys Markets",
+      "published_at": "2025-05-02T18:24:17Z",
+      "slug": "Bitcoin-Eyes-98K-as-Strong-Jobs-Report-Buoys-Markets",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21522201,
+      "url": "https://cryptopanic.com/news/21522201/Bitcoin-Eyes-98K-as-Strong-Jobs-Report-Buoys-Markets?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T18:24:17Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptopolitan.com",
+      "source": {
+        "title": "Feed - Cryptopolitan.Com",
+        "region": "en",
+        "domain": "cryptopolitan.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232323035/?mtm_campaign=API-OFA"
+      },
+      "title": "Senator Cynthia Lummis says her BITCOIN Act legislation will clear US national debt",
+      "published_at": "2025-05-02T18:21:05Z",
+      "slug": "Senator-Cynthia-Lummis-says-her-BITCOIN-Act-legislation-will-clear-US-national-debt",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "BITCOIN",
+          "title": "HarryPotterObamaSonic10Inu (ETH)",
+          "slug": "harrypotterobamasonic10in",
+          "url": "https://cryptopanic.com/news/harrypotterobamasonic10in/"
+        }
+      ],
+      "id": 21522205,
+      "url": "https://cryptopanic.com/news/21522205/Senator-Cynthia-Lummis-says-her-BITCOIN-Act-legislation-will-clear-US-national-debt?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T18:21:05Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "thedefiant.io",
+      "source": {
+        "title": "DeFi News",
+        "region": "en",
+        "domain": "thedefiant.io",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353232323030/?mtm_campaign=API-OFA"
+      },
+      "title": "Crypto Leaders Forecast Bitcoin Surge, SWIFT Disruption at Token2049 Dubai",
+      "published_at": "2025-05-02T18:20:02Z",
+      "slug": "Crypto-Leaders-Forecast-Bitcoin-Surge-SWIFT-Disruption-at-Token2049-Dubai",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21522200,
+      "url": "https://cryptopanic.com/news/21522200/Crypto-Leaders-Forecast-Bitcoin-Surge-SWIFT-Disruption-at-Token2049-Dubai?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T18:20:02Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    }
+  ]
+}
