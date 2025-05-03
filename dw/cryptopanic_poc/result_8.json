@@ -1,0 +1,813 @@
+{
+  "count": 200,
+  "next": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=9",
+  "previous": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=7",
+  "results": [
+    {
+      "kind": "news",
+      "domain": "coingape.com",
+      "source": {
+        "title": "CoinGape",
+        "region": "en",
+        "domain": "coingape.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236383333/?mtm_campaign=API-OFA"
+      },
+      "title": "Solana Price Predicted to Hit $750 as Eric Trump Fires 10-Year Warning at US Banks",
+      "published_at": "2025-05-02T23:35:45Z",
+      "slug": "Solana-Price-Predicted-to-Hit-750-as-Eric-Trump-Fires-10-Year-Warning-at-US-Banks",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "SOL",
+          "title": "Solana",
+          "slug": "solana",
+          "url": "https://cryptopanic.com/news/solana/"
+        },
+        {
+          "code": "SUI",
+          "title": "Sui",
+          "slug": "sui",
+          "url": "https://cryptopanic.com/news/sui/"
+        }
+      ],
+      "id": 21526833,
+      "url": "https://cryptopanic.com/news/21526833/Solana-Price-Predicted-to-Hit-750-as-Eric-Trump-Fires-10-Year-Warning-at-US-Banks?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T23:35:45Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointrackdaily.com",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "cointrack daily",
+        "region": "en",
+        "domain": "cointrackdaily.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236383033/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin blasts past $96K, smashing resistance as Peter Brandt eyes $150K peak by September",
+      "published_at": "2025-05-02T23:28:29Z",
+      "slug": "Bitcoin-blasts-past-96K-smashing-resistance-as-Peter-Brandt-eyes-150K-peak-by-September",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526803,
+      "url": "https://cryptopanic.com/news/21526803/Bitcoin-blasts-past-96K-smashing-resistance-as-Peter-Brandt-eyes-150K-peak-by-September?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T23:28:29Z"
+    },
+    {
+      "kind": "news",
+      "domain": "coinpedia.org",
+      "source": {
+        "title": "coinpedia",
+        "region": "en",
+        "domain": "coinpedia.org",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236383031/?mtm_campaign=API-OFA"
+      },
+      "title": "Litecoin Price Prediction: Is Now a Great Opportunity to Buy LTC?",
+      "published_at": "2025-05-02T23:23:41Z",
+      "slug": "Litecoin-Price-Prediction-Is-Now-a-Great-Opportunity-to-Buy-LTC",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "LTC",
+          "title": "Litecoin",
+          "slug": "litecoin",
+          "url": "https://cryptopanic.com/news/litecoin/"
+        }
+      ],
+      "id": 21526801,
+      "url": "https://cryptopanic.com/news/21526801/Litecoin-Price-Prediction-Is-Now-a-Great-Opportunity-to-Buy-LTC?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T23:23:41Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "beincrypto.com",
+      "source": {
+        "title": "BeInCrypto",
+        "region": "en",
+        "domain": "beincrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353237333236/?mtm_campaign=API-OFA"
+      },
+      "title": "ZachXBT Begins Freezing Funds from $330 Million Bitcoin Theft",
+      "published_at": "2025-05-02T23:14:04Z",
+      "slug": "ZachXBT-Begins-Freezing-Funds-from-330-Million-Bitcoin-Theft",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21527326,
+      "url": "https://cryptopanic.com/news/21527326/ZachXBT-Begins-Freezing-Funds-from-330-Million-Bitcoin-Theft?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T23:14:04Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "thedefiant.io",
+      "votes": {
+        "negative": 0,
+        "positive": 5,
+        "important": 2,
+        "liked": 3,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 2,
+        "comments": 0
+      },
+      "source": {
+        "title": "DeFi News",
+        "region": "en",
+        "domain": "thedefiant.io",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236363237/?mtm_campaign=API-OFA"
+      },
+      "title": "Apple Lifts iOS Restrictions Allowing Bitcoin, Crypto Payments and NFTs; Ends 30% Apple Tax",
+      "published_at": "2025-05-02T23:05:11Z",
+      "slug": "Apple-Lifts-iOS-Restrictions-Allowing-Bitcoin-Crypto-Payments-and-NFTs-Ends-30-Apple-Tax",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526627,
+      "url": "https://cryptopanic.com/news/21526627/Apple-Lifts-iOS-Restrictions-Allowing-Bitcoin-Crypto-Payments-and-NFTs-Ends-30-Apple-Tax?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T23:05:11Z"
+    },
+    {
+      "kind": "news",
+      "domain": "ambcrypto.com",
+      "source": {
+        "title": "AMBCrypto",
+        "region": "en",
+        "domain": "ambcrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236353136/?mtm_campaign=API-OFA"
+      },
+      "title": "Crypto-stocks correlation returns as Bitcoin\u2019s rally sparks surge in equities",
+      "published_at": "2025-05-02T23:00:57Z",
+      "slug": "Crypto-stocks-correlation-returns-as-Bitcoins-rally-sparks-surge-in-equities",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526516,
+      "url": "https://cryptopanic.com/news/21526516/Crypto-stocks-correlation-returns-as-Bitcoins-rally-sparks-surge-in-equities?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T23:00:57Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Simply Bitcoin",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236353533/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Revolution: $10 Trillion Going Into Bitcoin?",
+      "published_at": "2025-05-02T23:00:15Z",
+      "slug": "Bitcoin-Revolution-10-Trillion-Going-Into-Bitcoin",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526553,
+      "url": "https://cryptopanic.com/news/21526553/Bitcoin-Revolution-10-Trillion-Going-Into-Bitcoin?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T23:00:15Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "beincrypto.com",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "BeInCrypto",
+        "region": "en",
+        "domain": "beincrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236373831/?mtm_campaign=API-OFA"
+      },
+      "title": "Trump Urges Rate Cuts Amid Positive Labor Market Signs \u2013 Bullish for Crypto?",
+      "published_at": "2025-05-02T22:52:09Z",
+      "slug": "Trump-Urges-Rate-Cuts-Amid-Positive-Labor-Market-Signs-Bullish-for-Crypto",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526781,
+      "url": "https://cryptopanic.com/news/21526781/Trump-Urges-Rate-Cuts-Amid-Positive-Labor-Market-Signs-Bullish-for-Crypto?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T22:52:09Z"
+    },
+    {
+      "kind": "news",
+      "domain": "coingape.com",
+      "source": {
+        "title": "CoinGape",
+        "region": "en",
+        "domain": "coingape.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236323731/?mtm_campaign=API-OFA"
+      },
+      "title": "Ethereum Price at Risk as UK Regulators Move to Ban $102 Billion DeFi Loan Market",
+      "published_at": "2025-05-02T22:44:55Z",
+      "slug": "Ethereum-Price-at-Risk-as-UK-Regulators-Move-to-Ban-102-Billion-DeFi-Loan-Market",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 21526271,
+      "url": "https://cryptopanic.com/news/21526271/Ethereum-Price-at-Risk-as-UK-Regulators-Move-to-Ban-102-Billion-DeFi-Loan-Market?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T22:44:55Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "newsbtc.com",
+      "source": {
+        "title": "NewsBTC",
+        "region": "en",
+        "domain": "newsbtc.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236323331/?mtm_campaign=API-OFA"
+      },
+      "title": "Peter Brandt Predicts When Bitcoin Price Might Reach $150,000, Technical Signals Show Where Market Is At",
+      "published_at": "2025-05-02T22:30:49Z",
+      "slug": "Peter-Brandt-Predicts-When-Bitcoin-Price-Might-Reach-150000-Technical-Signals-Show-Where-Market-Is-At",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "USDT",
+          "title": "Tether",
+          "slug": "tether",
+          "url": "https://cryptopanic.com/news/tether/"
+        }
+      ],
+      "id": 21526231,
+      "url": "https://cryptopanic.com/news/21526231/Peter-Brandt-Predicts-When-Bitcoin-Price-Might-Reach-150000-Technical-Signals-Show-Where-Market-Is-At?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T22:30:49Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Bitcoin Magazine",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236323631/?mtm_campaign=API-OFA"
+      },
+      "title": "What People Get Wrong About Bitcoin Core | Sjors Provoost @ MIT Bitcoin Expo 2025",
+      "published_at": "2025-05-02T22:30:35Z",
+      "slug": "What-People-Get-Wrong-About-Bitcoin-Core-Sjors-Provoost-MIT-Bitcoin-Expo-2025",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526261,
+      "url": "https://cryptopanic.com/news/21526261/What-People-Get-Wrong-About-Bitcoin-Core-Sjors-Provoost-MIT-Bitcoin-Expo-2025?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T22:30:35Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236323430/?mtm_campaign=API-OFA"
+      },
+      "title": "Stars align for Bitcoin rally to $100K, but futures traders exercise caution \u2014 Here\u2019s why",
+      "published_at": "2025-05-02T22:30:00Z",
+      "slug": "Stars-align-for-Bitcoin-rally-to-100K-but-futures-traders-exercise-caution-Heres-why",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526240,
+      "url": "https://cryptopanic.com/news/21526240/Stars-align-for-Bitcoin-rally-to-100K-but-futures-traders-exercise-caution-Heres-why?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T22:30:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "decrypt.co",
+      "source": {
+        "title": "Decrypt",
+        "region": "en",
+        "domain": "decrypt.co",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236323233/?mtm_campaign=API-OFA"
+      },
+      "title": "Analysts Remain Bullish on Strategy's Bitcoin Buying Plans",
+      "published_at": "2025-05-02T22:20:51Z",
+      "slug": "Analysts-Remain-Bullish-on-Strategys-Bitcoin-Buying-Plans",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526223,
+      "url": "https://cryptopanic.com/news/21526223/Analysts-Remain-Bullish-on-Strategys-Bitcoin-Buying-Plans?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T22:20:51Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coinpedia.org",
+      "source": {
+        "title": "coinpedia",
+        "region": "en",
+        "domain": "coinpedia.org",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236323234/?mtm_campaign=API-OFA"
+      },
+      "title": "Thumzup Media to Raise Up to $200M to Purchase More Bitcoins",
+      "published_at": "2025-05-02T22:20:43Z",
+      "slug": "Thumzup-Media-to-Raise-Up-to-200M-to-Purchase-More-Bitcoins",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526224,
+      "url": "https://cryptopanic.com/news/21526224/Thumzup-Media-to-Raise-Up-to-200M-to-Purchase-More-Bitcoins?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T22:20:43Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptonews.com",
+      "source": {
+        "title": "Cryptonews",
+        "region": "en",
+        "domain": "cryptonews.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236323034/?mtm_campaign=API-OFA"
+      },
+      "title": "BITCOIN Act Touted by Sen. Lummis to Slash $36T U.S. Debt",
+      "published_at": "2025-05-02T22:13:15Z",
+      "slug": "BITCOIN-Act-Touted-by-Sen-Lummis-to-Slash-36T-US-Debt",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "BITCOIN",
+          "title": "HarryPotterObamaSonic10Inu (ETH)",
+          "slug": "harrypotterobamasonic10in",
+          "url": "https://cryptopanic.com/news/harrypotterobamasonic10in/"
+        }
+      ],
+      "id": 21526204,
+      "url": "https://cryptopanic.com/news/21526204/BITCOIN-Act-Touted-by-Sen-Lummis-to-Slash-36T-US-Debt?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T22:13:15Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "theblock.co",
+      "source": {
+        "title": "The Block",
+        "region": "en",
+        "domain": "theblock.co",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353236303234/?mtm_campaign=API-OFA"
+      },
+      "title": "Ivy League school Brown University reveals $5 million investment in BlackRock\u2019s spot Bitcoin ETF",
+      "published_at": "2025-05-02T22:10:38Z",
+      "slug": "Ivy-League-school-Brown-University-reveals-5-million-investment-in-BlackRocks-spot-Bitcoin-ETF",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21526024,
+      "url": "https://cryptopanic.com/news/21526024/Ivy-League-school-Brown-University-reveals-5-million-investment-in-BlackRocks-spot-Bitcoin-ETF?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T22:10:38Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "bitcoin.com",
+      "source": {
+        "title": "Bitcoin.com",
+        "region": "en",
+        "domain": "bitcoin.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353235343737/?mtm_campaign=API-OFA"
+      },
+      "title": "Public Firm Freight Tech Adds Trump\u2019s Meme Coin to Its Balance Sheet",
+      "published_at": "2025-05-02T21:38:38Z",
+      "slug": "Public-Firm-Freight-Tech-Adds-Trumps-Meme-Coin-to-Its-Balance-Sheet",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "TRUMP",
+          "title": "Official Trump",
+          "slug": "official-trump",
+          "url": "https://cryptopanic.com/news/official-trump/"
+        },
+        {
+          "code": "TRUMP",
+          "title": "MAGA",
+          "slug": "maga",
+          "url": "https://cryptopanic.com/news/maga/"
+        }
+      ],
+      "id": 21525477,
+      "url": "https://cryptopanic.com/news/21525477/Public-Firm-Freight-Tech-Adds-Trumps-Meme-Coin-to-Its-Balance-Sheet?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T21:38:38Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "u.today",
+      "source": {
+        "title": "U.Today",
+        "region": "en",
+        "domain": "u.today",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353235343831/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin May Break Past $100K Soon, Says Analyst",
+      "published_at": "2025-05-02T21:26:57Z",
+      "slug": "Bitcoin-May-Break-Past-100K-Soon-Says-Analyst",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21525481,
+      "url": "https://cryptopanic.com/news/21525481/Bitcoin-May-Break-Past-100K-Soon-Says-Analyst?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T21:26:57Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptopotato.com",
+      "source": {
+        "title": "Feed - Cryptopotato.Com",
+        "region": "en",
+        "domain": "cryptopotato.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353235343232/?mtm_campaign=API-OFA"
+      },
+      "title": "Strategy Reports Strong Start to 2025, Hitting 90% of Target Bitcoin Yield",
+      "published_at": "2025-05-02T21:19:09Z",
+      "slug": "Strategy-Reports-Strong-Start-to-2025-Hitting-90-of-Target-Bitcoin-Yield",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "USDT",
+          "title": "Tether",
+          "slug": "tether",
+          "url": "https://cryptopanic.com/news/tether/"
+        },
+        {
+          "code": "BTCUSD",
+          "title": "Bitcoin USD (BTCFi)",
+          "slug": "bitcoin-usd-btcfi",
+          "url": "https://cryptopanic.com/news/bitcoin-usd-btcfi/"
+        }
+      ],
+      "id": 21525422,
+      "url": "https://cryptopanic.com/news/21525422/Strategy-Reports-Strong-Start-to-2025-Hitting-90-of-Target-Bitcoin-Yield?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T21:19:09Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindoo.com",
+      "source": {
+        "title": "Coindoo.com",
+        "region": "en",
+        "domain": "coindoo.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353235343133/?mtm_campaign=API-OFA"
+      },
+      "title": "Investment Firm Ethereum in Favor of Bitcoin-Only Strategy",
+      "published_at": "2025-05-02T21:16:53Z",
+      "slug": "Investment-Firm-Ethereum-in-Favor-of-Bitcoin-Only-Strategy",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 21525413,
+      "url": "https://cryptopanic.com/news/21525413/Investment-Firm-Ethereum-in-Favor-of-Bitcoin-Only-Strategy?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T21:16:53Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    }
+  ]
+}
