@@ -1,0 +1,801 @@
+{
+  "count": 200,
+  "next": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=2",
+  "previous": null,
+  "results": [
+    {
+      "kind": "news",
+      "domain": "cryptopotato.com",
+      "source": {
+        "title": "Feed - Cryptopotato.Com",
+        "region": "en",
+        "domain": "cryptopotato.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337343038/?mtm_campaign=API-OFA"
+      },
+      "title": "5 Signals That Show Most Bullish Bitcoin Setup Since 2020",
+      "published_at": "2025-05-03T15:02:24Z",
+      "slug": "5-Signals-That-Show-Most-Bullish-Bitcoin-Setup-Since-2020",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "USDT",
+          "title": "Tether",
+          "slug": "tether",
+          "url": "https://cryptopanic.com/news/tether/"
+        },
+        {
+          "code": "BTCUSD",
+          "title": "Bitcoin USD (BTCFi)",
+          "slug": "bitcoin-usd-btcfi",
+          "url": "https://cryptopanic.com/news/bitcoin-usd-btcfi/"
+        }
+      ],
+      "id": 21537408,
+      "url": "https://cryptopanic.com/news/21537408/5-Signals-That-Show-Most-Bullish-Bitcoin-Setup-Since-2020?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T15:02:24Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "ambcrypto.com",
+      "source": {
+        "title": "AMBCrypto",
+        "region": "en",
+        "domain": "ambcrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337333836/?mtm_campaign=API-OFA"
+      },
+      "title": "Peter Schiff\u2019s new Bitcoin criticism: \u2018If you want to protect your purchasing power\u2026\u2019",
+      "published_at": "2025-05-03T15:00:28Z",
+      "slug": "Peter-Schiffs-new-Bitcoin-criticism-If-you-want-to-protect-your-purchasing-power",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "IP",
+          "title": "Story",
+          "slug": "story-2",
+          "url": "https://cryptopanic.com/news/story-2/"
+        }
+      ],
+      "id": 21537386,
+      "url": "https://cryptopanic.com/news/21537386/Peter-Schiffs-new-Bitcoin-criticism-If-you-want-to-protect-your-purchasing-power?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T15:00:28Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindoo.com",
+      "source": {
+        "title": "Coindoo.com",
+        "region": "en",
+        "domain": "coindoo.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337323531/?mtm_campaign=API-OFA"
+      },
+      "title": "Why Bitcoin Blockchain Activity Remains Low Despite BTC Trading Above $95,000",
+      "published_at": "2025-05-03T15:00:25Z",
+      "slug": "Why-Bitcoin-Blockchain-Activity-Remains-Low-Despite-BTC-Trading-Above-95000",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537251,
+      "url": "https://cryptopanic.com/news/21537251/Why-Bitcoin-Blockchain-Activity-Remains-Low-Despite-BTC-Trading-Above-95000?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T15:00:25Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coingape.com",
+      "source": {
+        "title": "CoinGape",
+        "region": "en",
+        "domain": "coingape.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337323437/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Price Now Facing $1.2B Sell-Wall as Arizona Governor Blocks Crypto Reserve Bill",
+      "published_at": "2025-05-03T15:00:19Z",
+      "slug": "Bitcoin-Price-Now-Facing-12B-Sell-Wall-as-Arizona-Governor-Blocks-Crypto-Reserve-Bill",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537247,
+      "url": "https://cryptopanic.com/news/21537247/Bitcoin-Price-Now-Facing-12B-Sell-Wall-as-Arizona-Governor-Blocks-Crypto-Reserve-Bill?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T15:00:19Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cointelegraph.com",
+      "source": {
+        "title": "CoinTelegraph",
+        "region": "en",
+        "domain": "cointelegraph.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337343833/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin mining \u2014 Institutions boost investments amid favorable US climate",
+      "published_at": "2025-05-03T15:00:00Z",
+      "slug": "Bitcoin-mining-Institutions-boost-investments-amid-favorable-US-climate",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537483,
+      "url": "https://cryptopanic.com/news/21537483/Bitcoin-mining-Institutions-boost-investments-amid-favorable-US-climate?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T15:00:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptopolitan.com",
+      "source": {
+        "title": "Feed - Cryptopolitan.Com",
+        "region": "en",
+        "domain": "cryptopolitan.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337323635/?mtm_campaign=API-OFA"
+      },
+      "title": "Arizona governor vetoes Bitcoin reserve bill despite legislative approval",
+      "published_at": "2025-05-03T14:55:25Z",
+      "slug": "Arizona-governor-vetoes-Bitcoin-reserve-bill-despite-legislative-approval",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537265,
+      "url": "https://cryptopanic.com/news/21537265/Arizona-governor-vetoes-Bitcoin-reserve-bill-despite-legislative-approval?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:55:25Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "theblock.co",
+      "source": {
+        "title": "The Block",
+        "region": "en",
+        "domain": "theblock.co",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337323331/?mtm_campaign=API-OFA"
+      },
+      "title": "Arizona governor vetoes bitcoin reserve bill, calling crypto \u2018untested investment\u2019",
+      "published_at": "2025-05-03T14:46:06Z",
+      "slug": "Arizona-governor-vetoes-bitcoin-reserve-bill-calling-crypto-untested-investment",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "S",
+          "title": "Agent S",
+          "slug": "agent-s",
+          "url": "https://cryptopanic.com/news/agent-s/"
+        }
+      ],
+      "id": 21537231,
+      "url": "https://cryptopanic.com/news/21537231/Arizona-governor-vetoes-bitcoin-reserve-bill-calling-crypto-untested-investment?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:46:06Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "thecoinrepublic.com",
+      "source": {
+        "title": "The Coin Republic",
+        "region": "en",
+        "domain": "thecoinrepublic.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337323233/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Short-Term Holders Now In Profit, What Changed?",
+      "published_at": "2025-05-03T14:43:01Z",
+      "slug": "Bitcoin-Short-Term-Holders-Now-In-Profit-What-Changed",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537223,
+      "url": "https://cryptopanic.com/news/21537223/Bitcoin-Short-Term-Holders-Now-In-Profit-What-Changed?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:43:01Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "zycrypto.com",
+      "source": {
+        "title": "ZyCrypto",
+        "region": "en",
+        "domain": "zycrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337323332/?mtm_campaign=API-OFA"
+      },
+      "title": "Setback For Crypto Advocates As Arizona Governor Vetoes Bill To Put Public Reserves Into Bitcoin",
+      "published_at": "2025-05-03T14:40:13Z",
+      "slug": "Setback-For-Crypto-Advocates-As-Arizona-Governor-Vetoes-Bill-To-Put-Public-Reserves-Into-Bitcoin",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "D",
+          "title": "Dar Open Network",
+          "slug": "dar-open-network",
+          "url": "https://cryptopanic.com/news/dar-open-network/"
+        },
+        {
+          "code": "USA",
+          "title": "American Coin",
+          "slug": "american-coin",
+          "url": "https://cryptopanic.com/news/american-coin/"
+        }
+      ],
+      "id": 21537232,
+      "url": "https://cryptopanic.com/news/21537232/Setback-For-Crypto-Advocates-As-Arizona-Governor-Vetoes-Bill-To-Put-Public-Reserves-Into-Bitcoin?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:40:13Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindoo.com",
+      "source": {
+        "title": "Coindoo.com",
+        "region": "en",
+        "domain": "coindoo.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337313932/?mtm_campaign=API-OFA"
+      },
+      "title": "Some of the Most Eye-Catching Bitcoin Price Predictions for 2025",
+      "published_at": "2025-05-03T14:30:40Z",
+      "slug": "Some-of-the-Most-Eye-Catching-Bitcoin-Price-Predictions-for-2025",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537192,
+      "url": "https://cryptopanic.com/news/21537192/Some-of-the-Most-Eye-Catching-Bitcoin-Price-Predictions-for-2025?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:30:40Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "beincrypto.com",
+      "votes": {
+        "negative": 1,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 1,
+        "lol": 1,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      },
+      "source": {
+        "title": "BeInCrypto",
+        "region": "en",
+        "domain": "beincrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337323434/?mtm_campaign=API-OFA"
+      },
+      "title": "Vitalik Buterin Urges Ethereum to Follow Bitcoin\u2019s Minimalist Design Model",
+      "published_at": "2025-05-03T14:25:06Z",
+      "slug": "Vitalik-Buterin-Urges-Ethereum-to-Follow-Bitcoins-Minimalist-Design-Model",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 21537244,
+      "url": "https://cryptopanic.com/news/21537244/Vitalik-Buterin-Urges-Ethereum-to-Follow-Bitcoins-Minimalist-Design-Model?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:25:06Z"
+    },
+    {
+      "kind": "news",
+      "domain": "decrypt.co",
+      "source": {
+        "title": "Decrypt",
+        "region": "en",
+        "domain": "decrypt.co",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337313538/?mtm_campaign=API-OFA"
+      },
+      "title": "Brown University Bets on Bitcoin With Millions Worth of BlackRock ETF Shares",
+      "published_at": "2025-05-03T14:10:23Z",
+      "slug": "Brown-University-Bets-on-Bitcoin-With-Millions-Worth-of-BlackRock-ETF-Shares",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537158,
+      "url": "https://cryptopanic.com/news/21537158/Brown-University-Bets-on-Bitcoin-With-Millions-Worth-of-BlackRock-ETF-Shares?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:10:23Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "ecoinimist.com",
+      "source": {
+        "title": "ecoinimist.com",
+        "region": "en",
+        "domain": "ecoinimist.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337313632/?mtm_campaign=API-OFA"
+      },
+      "title": "Kevin O\u2019Leary Bets Big on Crypto as Bitcoin Eyes $100K and Regulation Looms",
+      "published_at": "2025-05-03T14:10:00Z",
+      "slug": "Kevin-OLeary-Bets-Big-on-Crypto-as-Bitcoin-Eyes-100K-and-Regulation-Looms",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537162,
+      "url": "https://cryptopanic.com/news/21537162/Kevin-OLeary-Bets-Big-on-Crypto-as-Bitcoin-Eyes-100K-and-Regulation-Looms?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:10:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "finbold.com",
+      "source": {
+        "title": "Finbold",
+        "region": "en",
+        "domain": "finbold.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337313631/?mtm_campaign=API-OFA"
+      },
+      "title": "Ripple just unlocked 1 billion XRP; Incoming crash?",
+      "published_at": "2025-05-03T14:09:26Z",
+      "slug": "Ripple-just-unlocked-1-billion-XRP-Incoming-crash",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "XRP",
+          "title": "XRP",
+          "slug": "ripple",
+          "url": "https://cryptopanic.com/news/ripple/"
+        }
+      ],
+      "id": 21537161,
+      "url": "https://cryptopanic.com/news/21537161/Ripple-just-unlocked-1-billion-XRP-Incoming-crash?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:09:26Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptodaily.co.uk",
+      "source": {
+        "title": "CryptoDaily",
+        "region": "en",
+        "domain": "cryptodaily.co.uk",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353336393438/?mtm_campaign=API-OFA"
+      },
+      "title": "Best Crypto to Buy Now: Market Euphoria Grows as Bitcoin Nears $100K",
+      "published_at": "2025-05-03T14:05:13Z",
+      "slug": "Best-Crypto-to-Buy-Now-Market-Euphoria-Grows-as-Bitcoin-Nears-100K",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21536948,
+      "url": "https://cryptopanic.com/news/21536948/Best-Crypto-to-Buy-Now-Market-Euphoria-Grows-as-Bitcoin-Nears-100K?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:05:13Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "thedefiant.io",
+      "source": {
+        "title": "DeFi News",
+        "region": "en",
+        "domain": "thedefiant.io",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337323038/?mtm_campaign=API-OFA"
+      },
+      "title": "Arizona Gov. Katie Hobbs Vetoes SB 1025, Citing Bitcoin as 'Untested Investment'",
+      "published_at": "2025-05-03T14:05:11Z",
+      "slug": "Arizona-Gov-Katie-Hobbs-Vetoes-SB-1025-Citing-Bitcoin-as-Untested-Investment",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537208,
+      "url": "https://cryptopanic.com/news/21537208/Arizona-Gov-Katie-Hobbs-Vetoes-SB-1025-Citing-Bitcoin-as-Untested-Investment?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:05:11Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coindoo.com",
+      "source": {
+        "title": "Coindoo.com",
+        "region": "en",
+        "domain": "coindoo.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353336393432/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin May Be Entering Its Most Bullish Phase Since 2020 \u2013 Here is Why",
+      "published_at": "2025-05-03T14:05:01Z",
+      "slug": "Bitcoin-May-Be-Entering-Its-Most-Bullish-Phase-Since-2020-Here-is-Why",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21536942,
+      "url": "https://cryptopanic.com/news/21536942/Bitcoin-May-Be-Entering-Its-Most-Bullish-Phase-Since-2020-Here-is-Why?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:05:01Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Anthony Pompliano",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337313634/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Could DOUBLE In Price This Year?!",
+      "published_at": "2025-05-03T14:01:07Z",
+      "slug": "Bitcoin-Could-DOUBLE-In-Price-This-Year",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537164,
+      "url": "https://cryptopanic.com/news/21537164/Bitcoin-Could-DOUBLE-In-Price-This-Year?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:01:07Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptodnes.bg",
+      "source": {
+        "title": "cryptodnes",
+        "region": "en",
+        "domain": "cryptodnes.bg",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353337353637/?mtm_campaign=API-OFA"
+      },
+      "title": "Analyst Who Called 2022 Crash Warns of $60K Bitcoin Drop",
+      "published_at": "2025-05-03T14:00:47Z",
+      "slug": "Analyst-Who-Called-2022-Crash-Warns-of-60K-Bitcoin-Drop",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21537567,
+      "url": "https://cryptopanic.com/news/21537567/Analyst-Who-Called-2022-Crash-Warns-of-60K-Bitcoin-Drop?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T14:00:47Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "u.today",
+      "source": {
+        "title": "U.Today",
+        "region": "en",
+        "domain": "u.today",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353336353532/?mtm_campaign=API-OFA"
+      },
+      "title": "$50 Million per BTC: Tether, Softbank Crypto Venture Founder Shares Calculation",
+      "published_at": "2025-05-03T13:58:00Z",
+      "slug": "50-Million-per-BTC-Tether-Softbank-Crypto-Venture-Founder-Shares-Calculation",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "USDT",
+          "title": "Tether",
+          "slug": "tether",
+          "url": "https://cryptopanic.com/news/tether/"
+        }
+      ],
+      "id": 21536552,
+      "url": "https://cryptopanic.com/news/21536552/50-Million-per-BTC-Tether-Softbank-Crypto-Venture-Founder-Shares-Calculation?mtm_campaign=API-OFA",
+      "created_at": "2025-05-03T13:58:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    }
+  ]
+}
