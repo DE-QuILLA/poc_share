@@ -1,0 +1,789 @@
+{
+  "count": 200,
+  "next": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=10",
+  "previous": "https://cryptopanic.com/api/v1/posts/?auth_token=23049df32a525f4a2b17d3a8d15b6c94f8d1ffc3&public=true&currencies=BTC&approved=true&page=8",
+  "results": [
+    {
+      "kind": "news",
+      "domain": "cryptoslate.com",
+      "votes": {
+        "negative": 0,
+        "positive": 1,
+        "important": 0,
+        "liked": 1,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 1,
+        "comments": 0
+      },
+      "source": {
+        "title": "CryptoSlate",
+        "region": "en",
+        "domain": "cryptoslate.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353235343038/?mtm_campaign=API-OFA"
+      },
+      "title": "Ivy-league US college Brown discloses $4.9 million exposure to Bitcoin via BlackRock\u2019s IBIT ETF",
+      "published_at": "2025-05-02T21:16:04Z",
+      "slug": "Ivy-league-US-college-Brown-discloses-49-million-exposure-to-Bitcoin-via-BlackRocks-IBIT-ETF",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21525408,
+      "url": "https://cryptopanic.com/news/21525408/Ivy-league-US-college-Brown-discloses-49-million-exposure-to-Bitcoin-via-BlackRocks-IBIT-ETF?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T21:16:04Z"
+    },
+    {
+      "kind": "news",
+      "domain": "ambcrypto.com",
+      "source": {
+        "title": "AMBCrypto",
+        "region": "en",
+        "domain": "ambcrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234343537/?mtm_campaign=API-OFA"
+      },
+      "title": "Crypto market today: Bitcoin hits $97K as Dogecoin, Sonic, Litecoin & AERO lead altcoin rally",
+      "published_at": "2025-05-02T21:00:32Z",
+      "slug": "Crypto-market-today-Bitcoin-hits-97K-as-Dogecoin-Sonic-Litecoin-AERO-lead-altcoin-rally",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "DOGE",
+          "title": "Dogecoin",
+          "slug": "dogecoin",
+          "url": "https://cryptopanic.com/news/dogecoin/"
+        },
+        {
+          "code": "LTC",
+          "title": "Litecoin",
+          "slug": "litecoin",
+          "url": "https://cryptopanic.com/news/litecoin/"
+        },
+        {
+          "code": "AERO",
+          "title": "Aerodrome Finance",
+          "slug": "aerodrome-finance",
+          "url": "https://cryptopanic.com/news/aerodrome-finance/"
+        },
+        {
+          "code": "MEME",
+          "title": "Memecoin",
+          "slug": "memecoin-2",
+          "url": "https://cryptopanic.com/news/memecoin-2/"
+        }
+      ],
+      "id": 21524457,
+      "url": "https://cryptopanic.com/news/21524457/Crypto-market-today-Bitcoin-hits-97K-as-Dogecoin-Sonic-Litecoin-AERO-lead-altcoin-rally?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T21:00:32Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "The Crypto Lark",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353235343039/?mtm_campaign=API-OFA"
+      },
+      "title": "Most Bitcoin & Crypto Holders Are Not Ready For What\u2019s Coming",
+      "published_at": "2025-05-02T21:00:27Z",
+      "slug": "Most-Bitcoin-Crypto-Holders-Are-Not-Ready-For-Whats-Coming",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21525409,
+      "url": "https://cryptopanic.com/news/21525409/Most-Bitcoin-Crypto-Holders-Are-Not-Ready-For-Whats-Coming?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T21:00:27Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Simply Bitcoin",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353235303238/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin: The US Aims for Superpower Status!",
+      "published_at": "2025-05-02T21:00:01Z",
+      "slug": "Bitcoin-The-US-Aims-for-Superpower-Status",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21525028,
+      "url": "https://cryptopanic.com/news/21525028/Bitcoin-The-US-Aims-for-Superpower-Status?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T21:00:01Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Simply Bitcoin",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353235303237/?mtm_campaign=API-OFA"
+      },
+      "title": "Coinbase INSIDER Reveals America's INSANE Bitcoin Plan!",
+      "published_at": "2025-05-02T20:54:46Z",
+      "slug": "Coinbase-INSIDER-Reveals-Americas-INSANE-Bitcoin-Plan",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21525027,
+      "url": "https://cryptopanic.com/news/21525027/Coinbase-INSIDER-Reveals-Americas-INSANE-Bitcoin-Plan?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:54:46Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coinpedia.org",
+      "source": {
+        "title": "coinpedia",
+        "region": "en",
+        "domain": "coinpedia.org",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234343531/?mtm_campaign=API-OFA"
+      },
+      "title": "Brown University Discloses $5M in BlackRock\u2019s IBIT: Bitcoin Price Recovers",
+      "published_at": "2025-05-02T20:54:42Z",
+      "slug": "Brown-University-Discloses-5M-in-BlackRocks-IBIT-Bitcoin-Price-Recovers",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21524451,
+      "url": "https://cryptopanic.com/news/21524451/Brown-University-Discloses-5M-in-BlackRocks-IBIT-Bitcoin-Price-Recovers?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:54:42Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "cryptopolitan.com",
+      "source": {
+        "title": "Feed - Cryptopolitan.Com",
+        "region": "en",
+        "domain": "cryptopolitan.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234343535/?mtm_campaign=API-OFA"
+      },
+      "title": "Deputy CIA director: Bitcoin is now a matter of national security",
+      "published_at": "2025-05-02T20:50:17Z",
+      "slug": "Deputy-CIA-director-Bitcoin-is-now-a-matter-of-national-security",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21524455,
+      "url": "https://cryptopanic.com/news/21524455/Deputy-CIA-director-Bitcoin-is-now-a-matter-of-national-security?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:50:17Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "decrypt.co",
+      "source": {
+        "title": "Decrypt",
+        "region": "en",
+        "domain": "decrypt.co",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234343434/?mtm_campaign=API-OFA"
+      },
+      "title": "Public Keys: Strategy Doubles Down on Bitcoin Plans, Robinhood Glitters With Gold",
+      "published_at": "2025-05-02T20:48:09Z",
+      "slug": "Public-Keys-Strategy-Doubles-Down-on-Bitcoin-Plans-Robinhood-Glitters-With-Gold",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21524444,
+      "url": "https://cryptopanic.com/news/21524444/Public-Keys-Strategy-Doubles-Down-on-Bitcoin-Plans-Robinhood-Glitters-With-Gold?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:48:09Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "thedefiant.io",
+      "source": {
+        "title": "DeFi News",
+        "region": "en",
+        "domain": "thedefiant.io",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234333938/?mtm_campaign=API-OFA"
+      },
+      "title": "U.S. Bitcoin ETFs Resume Inflows With $422.5 Million Led by BlackRock After April $56.3M Outflows and BTC Near $97,000",
+      "published_at": "2025-05-02T20:35:11Z",
+      "slug": "US-Bitcoin-ETFs-Resume-Inflows-With-4225-Million-Led-by-BlackRock-After-April-563M-Outflows-and-BTC-Near-97000",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21524398,
+      "url": "https://cryptopanic.com/news/21524398/US-Bitcoin-ETFs-Resume-Inflows-With-4225-Million-Led-by-BlackRock-After-April-563M-Outflows-and-BTC-Near-97000?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:35:11Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "bitcoin-takeover.com",
+      "source": {
+        "title": "Bitcoin Takeover",
+        "region": "en",
+        "domain": "bitcoin-takeover.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234343330/?mtm_campaign=API-OFA"
+      },
+      "title": "S16 E24: Vitalik Buterin on the Future of Bitcoin & Ethereum",
+      "published_at": "2025-05-02T20:34:00Z",
+      "slug": "S16-E24-Vitalik-Buterin-on-the-Future-of-Bitcoin-Ethereum",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 21524430,
+      "url": "https://cryptopanic.com/news/21524430/S16-E24-Vitalik-Buterin-on-the-Future-of-Bitcoin-Ethereum?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:34:00Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "bitcoin.com",
+      "source": {
+        "title": "Bitcoin.com",
+        "region": "en",
+        "domain": "bitcoin.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234333735/?mtm_campaign=API-OFA"
+      },
+      "title": "Trump Endorses Senator\u2019s Push for US to Amass Bitcoin Reserves",
+      "published_at": "2025-05-02T20:30:07Z",
+      "slug": "Trump-Endorses-Senators-Push-for-US-to-Amass-Bitcoin-Reserves",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "TRUMP",
+          "title": "MAGA",
+          "slug": "maga",
+          "url": "https://cryptopanic.com/news/maga/"
+        }
+      ],
+      "id": 21524375,
+      "url": "https://cryptopanic.com/news/21524375/Trump-Endorses-Senators-Push-for-US-to-Amass-Bitcoin-Reserves?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:30:07Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "zycrypto.com",
+      "source": {
+        "title": "ZyCrypto",
+        "region": "en",
+        "domain": "zycrypto.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234333838/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin & Ether Top Crypto Growth Outlook Amid Soaring Institutional Demand: Report",
+      "published_at": "2025-05-02T20:28:30Z",
+      "slug": "Bitcoin-Ether-Top-Crypto-Growth-Outlook-Amid-Soaring-Institutional-Demand-Report",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        },
+        {
+          "code": "ETH",
+          "title": "Ethereum",
+          "slug": "ethereum",
+          "url": "https://cryptopanic.com/news/ethereum/"
+        }
+      ],
+      "id": 21524388,
+      "url": "https://cryptopanic.com/news/21524388/Bitcoin-Ether-Top-Crypto-Growth-Outlook-Amid-Soaring-Institutional-Demand-Report?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:28:30Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Bitcoin Magazine",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234343132/?mtm_campaign=API-OFA"
+      },
+      "title": "LIVE: Bitcoin for Corporations - Day 2 | Strategy World 2025",
+      "published_at": "2025-05-02T20:26:38Z",
+      "slug": "LIVE-Bitcoin-for-Corporations-Day-2-Strategy-World-2025",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21524412,
+      "url": "https://cryptopanic.com/news/21524412/LIVE-Bitcoin-for-Corporations-Day-2-Strategy-World-2025?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:26:38Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "BTC Sessions",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234343030/?mtm_campaign=API-OFA"
+      },
+      "title": "MicroStrategy JUST Dropped $84B Bitcoin BOMBSHELL | Lyn Alden, Robert Breedlove, Dale Warburton",
+      "published_at": "2025-05-02T20:20:22Z",
+      "slug": "MicroStrategy-JUST-Dropped-84B-Bitcoin-BOMBSHELL-Lyn-Alden-Robert-Breedlove-Dale-Warburton",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21524400,
+      "url": "https://cryptopanic.com/news/21524400/MicroStrategy-JUST-Dropped-84B-Bitcoin-BOMBSHELL-Lyn-Alden-Robert-Breedlove-Dale-Warburton?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:20:22Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "media",
+      "domain": "youtube.com",
+      "source": {
+        "title": "Bitcoin Magazine",
+        "region": "en",
+        "domain": "youtube.com",
+        "path": null,
+        "type": "media",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234333633/?mtm_campaign=API-OFA"
+      },
+      "title": "LIVE: Bitcoin for Corporations - Day 1 | Strategy World 2025",
+      "published_at": "2025-05-02T20:13:58Z",
+      "slug": "LIVE-Bitcoin-for-Corporations-Day-1-Strategy-World-2025",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21524363,
+      "url": "https://cryptopanic.com/news/21524363/LIVE-Bitcoin-for-Corporations-Day-1-Strategy-World-2025?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:13:58Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "coingape.com",
+      "source": {
+        "title": "CoinGape",
+        "region": "en",
+        "domain": "coingape.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234323438/?mtm_campaign=API-OFA"
+      },
+      "title": "Peter Schiff Warns Bitcoin Is No Hedge Against Inflation Despite Recent Price Surge",
+      "published_at": "2025-05-02T20:13:11Z",
+      "slug": "Peter-Schiff-Warns-Bitcoin-Is-No-Hedge-Against-Inflation-Despite-Recent-Price-Surge",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21524248,
+      "url": "https://cryptopanic.com/news/21524248/Peter-Schiff-Warns-Bitcoin-Is-No-Hedge-Against-Inflation-Despite-Recent-Price-Surge?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:13:11Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "decrypt.co",
+      "source": {
+        "title": "Decrypt",
+        "region": "en",
+        "domain": "decrypt.co",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233363533/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Rises as Wall Street Cements \u2018Liberation Day\u2019 Recovery on Strong Jobs Report",
+      "published_at": "2025-05-02T20:00:37Z",
+      "slug": "Bitcoin-Rises-as-Wall-Street-Cements-Liberation-Day-Recovery-on-Strong-Jobs-Report",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21523653,
+      "url": "https://cryptopanic.com/news/21523653/Bitcoin-Rises-as-Wall-Street-Cements-Liberation-Day-Recovery-on-Strong-Jobs-Report?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:00:37Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "dailyhodl.com",
+      "source": {
+        "title": "The Daily Hodl",
+        "region": "en",
+        "domain": "dailyhodl.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233343636/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin and Other Crypto Assets Are Tools That Can Be Used for Intelligence Gathering, Says CIA Deputy Director",
+      "published_at": "2025-05-02T20:00:08Z",
+      "slug": "Bitcoin-and-Other-Crypto-Assets-Are-Tools-That-Can-Be-Used-for-Intelligence-Gathering-Says-CIA-Deputy-Director",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21523466,
+      "url": "https://cryptopanic.com/news/21523466/Bitcoin-and-Other-Crypto-Assets-Are-Tools-That-Can-Be-Used-for-Intelligence-Gathering-Says-CIA-Deputy-Director?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T20:00:08Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "thestreet.com",
+      "source": {
+        "title": "The Street Crypto",
+        "region": "en",
+        "domain": "thestreet.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353234323631/?mtm_campaign=API-OFA"
+      },
+      "title": "Positive China news sends markets soaring",
+      "published_at": "2025-05-02T19:58:11Z",
+      "slug": "Positive-China-news-sends-markets-soaring",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21524261,
+      "url": "https://cryptopanic.com/news/21524261/Positive-China-news-sends-markets-soaring?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:58:11Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    },
+    {
+      "kind": "news",
+      "domain": "dailyhodl.com",
+      "source": {
+        "title": "The Daily Hodl",
+        "region": "en",
+        "domain": "dailyhodl.com",
+        "path": null,
+        "type": "feed",
+        "url": "https://cryptopanic.com/news/external/3334323435382D3231353233343337/?mtm_campaign=API-OFA"
+      },
+      "title": "Bitcoin Threatening To Revisit All-Time Highs As Market Anxiety Fades, Says Analyst \u2013 Here\u2019s His Outlook",
+      "published_at": "2025-05-02T19:55:39Z",
+      "slug": "Bitcoin-Threatening-To-Revisit-All-Time-Highs-As-Market-Anxiety-Fades-Says-Analyst-Heres-His-Outlook",
+      "currencies": [
+        {
+          "code": "BTC",
+          "title": "Bitcoin",
+          "slug": "bitcoin",
+          "url": "https://cryptopanic.com/news/bitcoin/"
+        }
+      ],
+      "id": 21523437,
+      "url": "https://cryptopanic.com/news/21523437/Bitcoin-Threatening-To-Revisit-All-Time-Highs-As-Market-Anxiety-Fades-Says-Analyst-Heres-His-Outlook?mtm_campaign=API-OFA",
+      "created_at": "2025-05-02T19:55:39Z",
+      "votes": {
+        "negative": 0,
+        "positive": 0,
+        "important": 0,
+        "liked": 0,
+        "disliked": 0,
+        "lol": 0,
+        "toxic": 0,
+        "saved": 0,
+        "comments": 0
+      }
+    }
+  ]
+}
