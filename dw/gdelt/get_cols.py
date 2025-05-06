@@ -1,3 +1,4 @@
+# The masterfilelist.txt is not comprehensive (originally over 100mb. i had to cut it)
 # import re
 import requests
 import zipfile
