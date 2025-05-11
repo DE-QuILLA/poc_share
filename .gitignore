@@ -7,3 +7,6 @@
 # binaries
 *.zip
 masterfileslist.txt
+
+# notebooks
+*.ipynb

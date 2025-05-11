@@ -3,7 +3,7 @@
 import requests
 import zipfile
 import os
-# import pandas as pd
+import pandas as pd
 
 if __name__ == "__main__":
 
@@ -65,13 +65,17 @@ if __name__ == "__main__":
         print("#---#---#---#---#---#---#---#---#---#")
 
     # CSV inspection
-    # csv_files = [f for f in os.listdir(extracted_dir) if f.endswith('.CSV') or f.endswith('.csv')]
-    # if not csv_files:
-    #     raise FileNotFoundError("NO CSV IN THERE 😇")
+    csv_files = [f for f in os.listdir(extracted_dir) if f.endswith('.CSV') or f.endswith('.csv')]
+    if not csv_files:
+        raise FileNotFoundError("NO CSV IN THERE 😇")
             
-    # Inspect the first file for col names
-    # csv_path = os.path.join('raw_csv', csv_files[0])
-    # df = pd.read_csv(csv_path, nrows=5, delimiter='\t', engine='python', header=None)
-    # print(df)
-    # It doesn't seem to contain col names. 
-    # For the data spec, see the notion page https://www.notion.so/1eb90ab6365f807c98b5c96942976b5b
+    # Cut file size for inspection
+    for file in csv_files:
+        csv_path = os.path.join('raw_csv', file)
+        df = pd.read_csv(csv_path, nrows=2, delimiter='\t', engine='python')
+        
+        # Save result to csv
+        df.to_csv(os.path.join('raw_csv', file), index=False, sep='\t')
+
+        # It doesn't seem to contain col names. 
+        # For the data spec, see the notion page https://www.notion.so/1eb90ab6365f807c98b5c96942976b5b
