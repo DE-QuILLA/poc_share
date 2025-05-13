@@ -9,10 +9,33 @@ if __name__ == "__main__":
 
     ## These can be done with a bash script.
     ## But for demonstration purposes... 🥴
+    extracted_dir = 'raw_csv'
+
     with open('masterfilelist.txt', 'r') as f:
         
         total_size = 0
         total_count = 0
+        extracted_size = 0
+        extracted_count = 0
+
+        # Get total size
+        for line_number, line in enumerate(f, start=1):
+            clean = line.strip()
+            # Some lines are malformed.
+            # We can safely ignore them,
+            # as they don't affect the dataset continuity or idempotency as a whole
+            if " " in clean:
+                size, checksum, url = clean.split()
+
+                total_size += eval(size)
+                total_count += 1
+
+        print(f"Total size: {total_size/1024/1024/1024:.2f} GB")
+        print(f"Total count: {total_count} files")
+        print("#---#---#---#---#---#---#---#---#---#")
+
+        # Reset the file pointer
+        f.seek(0)
 
         # every 15 min, the files are uploaded in events-mentions-gkg order
         for line_number, line in enumerate(f, start=1):
@@ -28,11 +51,6 @@ if __name__ == "__main__":
             url_1st_part, url_2nd_part, url_3rd_part, dataset, content_type, compression = url.split(".")
             tld, gdelt_ver, dt = url_3rd_part.split("/")
 
-
-            # We don't need the mentions dataset
-            if dataset == "mentions":
-                continue
-
             print(f"URL found: {url}")
 
             # Download zip
@@ -45,23 +63,22 @@ if __name__ == "__main__":
             print(f"That'll be {size} dollars (bytes)")
 
             # Unzip
-            extracted_dir = 'raw_csv'
+            
             with zipfile.ZipFile(zip_path, 'r') as zip_ref:
                 zip_ref.extractall(extracted_dir)
             # Cleanup
             if os.path.exists(zip_path):
                 os.remove(zip_path)
-            print("Unzip complete")
             print("#---#---#---#---#---#---#---#---#---#")
 
-            total_size += eval(size)
-            total_count += 1
+            extracted_size += eval(size)
+            extracted_count += 1
 
             if line_number == 3:
                 break
 
-        print(f"Total size: {total_size/1024/1024/1024:.2f} GB")
-        print(f"Total count: {total_count} files")
+        print(f"Extracted size: {extracted_size/1024/1024/1024:.2f} GB")
+        print(f"Extracted count: {extracted_count} files")
         print("#---#---#---#---#---#---#---#---#---#")
 
     # CSV inspection
@@ -72,7 +89,7 @@ if __name__ == "__main__":
     # Cut file size for inspection
     for file in csv_files:
         csv_path = os.path.join('raw_csv', file)
-        df = pd.read_csv(csv_path, nrows=2, delimiter='\t', engine='python')
+        df = pd.read_csv(csv_path, nrows=50, delimiter='\t', engine='python')
         
         # Save result to csv
         df.to_csv(os.path.join('raw_csv', file), index=False, sep='\t')

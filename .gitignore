@@ -6,7 +6,6 @@
 
 # binaries
 *.zip
-masterfileslist.txt
 
-# notebooks
-*.ipynb
+# Other big files
+masterfilelist.txt
